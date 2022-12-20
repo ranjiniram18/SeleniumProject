@@ -64,7 +64,7 @@ public class ActionDemo {
 
 		obj1.moveToElement(clickme).contextClick().build().perform();
 
-		System.out.println("**********");
+		System.out.println("************************");
 	}
 }
 
